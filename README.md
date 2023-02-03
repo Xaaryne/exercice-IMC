@@ -1,2 +1,3 @@
-# exercice_imc
- exercice de calcul d'imc
+# exercice IMC
+
+Un programme qui calcule une IMC
